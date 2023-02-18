@@ -1,0 +1,29 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: space-around;
+}
+
+.hero {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+}
+
+.big {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.small {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+button.header {
+    background-color: #1F2937;
+}
